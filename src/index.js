@@ -1,5 +1,5 @@
 /**
- * Created by 刘凯 on 2017/11/8.
+ * Created on 2017/11/8.
  */
 import angular from 'angular';
 import uiRouter from 'angular-ui-router';
