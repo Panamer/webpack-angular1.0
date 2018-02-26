@@ -1,5 +1,5 @@
 /**
- * Created by 刘凯 on 2017/6/8.
+ * Created by mustang on 2017/6/8.
  */
 var path = require("path");
 const htmlWebpackPlugin = require('html-webpack-plugin');
