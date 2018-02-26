@@ -1,5 +1,5 @@
 /**
- * Created by 刘凯 on 2017/10/31.
+ * Created  on 2017/10/31.
  */
 var webpack = require('webpack');
 var WebpackDevServer = require('webpack-dev-server');
